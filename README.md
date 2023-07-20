@@ -1,4 +1,11 @@
 # rick-morty-hash
+
+<p float="left">
+
+ <img src="" width="200" />
+
+</p>
+
 Jogo da velha com a temática do desenho Rick e Morty, criado utilizando HTML, CSS e JavaScript.
 Desenvolvi esse projeto como forma de aprimorar minha habilidades utilizando elementos DOM (Document Object Model).
 A conclusão é que após o final do projeto, eu evolui muito nessa questão, visto que em diversos momentos tive que parar
