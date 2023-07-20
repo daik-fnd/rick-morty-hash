@@ -2,7 +2,7 @@
 
 <p float="left">
 
- <img src="" width="200" />
+ <img src="screen-hash.png" width="200" />
 
 </p>
 
