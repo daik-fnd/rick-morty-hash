@@ -2,7 +2,7 @@
 
 <p float="left">
 
- <img src="screen-hash.png" width="200" />
+ <img src="https://github.com/daik-fnd/rick-morty-hash/blob/main/css/pics/screen-hash.png" width="200" />
 
 </p>
 
