@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Jogo da Velha - Rick & Morty</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link
+</head>
+<body>
+    <div class="main-banner">
+        <img src="css\Rick_and_Morty_logo_PNG3.png">
+    </div>
+
+  <h1>Jogo da Velha</h1>
+  <div id="container-buttons">
+    <button id="multiplayer">2 Jogadores</button>
+    <button id="solo-player">Contra IA</button>
+  </div>
+  
+  <div id="container-main" class="hide">
+
+    <div class="box" id="block1"></div>
+    <div class="box" id="block2"></div>
+    <div class="box" id="block3"></div>
+    <div class="box" id="block4"></div>
+    <div class="box" id="block5"></div>
+    <div class="box" id="block6"></div>
+    <div class="box" id="block7"></div>
+    <div class="box" id="block8"></div>
+    <div class="box" id="block9"></div>
+    
+      <div id="scoreboard">
+      <h2>Placar:</h2>
+      <span class="score-box"><span id="rick-scoreboard"><img src="css\pics\rick-button.png"></span>: <span id="scoreboard-1">0</span></span>
+      <span class="score-box"><span id="morty-scoreboard"><img src="css\pics\morty-button.png"></span>: <span id="scoreboard-2">0</span></span>
+      </div>  
+    </div>
+  </div>
+
+  <div class="hide">
+    <div class="rick-player">
+        <img src="css\pics\rick-button.png">
+    </div>
+    <div class="morty-player">
+        <img src="css\pics\morty-button.png">
+    </div>
+  </div>
+  <div id="message">
+    <p></p>
+  </div>
+  <div id="playerTurn">
+    <p></p>
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>
