@@ -10,5 +10,5 @@ https://github.com/daik-fnd/rick-morty-hash/assets/106885558/68ca6e80-f43b-47d0-
 
 </p>
 
-Projeto criado utilizando HTML, CSS e Javascript, consiste basicamente em um jogo da velha com a temática do Rick e Morty, sendo possível jogar entre duas pessoas de forma
+Projeto criado utilizando <strong>HTML, CSS e Javascript</strong>, consiste basicamente em um jogo da velha com a temática do Rick e Morty, sendo possível jogar entre duas pessoas de forma
 offline ou contra a IA.
