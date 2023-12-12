@@ -2,14 +2,13 @@
 
 <p float="left">
 
- <img src="https://github.com/daik-fnd/rick-morty-hash/blob/main/css/pics/screen-hash.png" width="200" />
+
+
+https://github.com/daik-fnd/rick-morty-hash/assets/106885558/68ca6e80-f43b-47d0-8f55-dc38abc4a5fd
+
+
 
 </p>
 
-Jogo da velha com a temática do desenho Rick e Morty, criado utilizando HTML, CSS e JavaScript.
-Desenvolvi esse projeto como forma de aprimorar minha habilidades utilizando elementos DOM (Document Object Model).
-A conclusão é que após o final do projeto, eu evolui muito nessa questão, visto que em diversos momentos tive que parar
-e analisar como exatamente cada elemento funcionava, além de ter que buscar ajuda em forúns, a fim de aprimorar o
-meu código e conhecer diferentes formas de concluir a mesma idéia. 
-Eu espero continuar evoluindo dessa forma, praticando e pesquisando, portanto pretendo criar novos projetos como
-esse em breve.
+Projeto criado utilizando HTML, CSS e Javascript, consiste basicamente em um jogo da velha com a temática do Rick e Morty, sendo possível jogar entre duas pessoas de forma
+offline ou contra a IA.
